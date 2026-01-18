@@ -1,18 +1,32 @@
-# Nutrition--label--project
-his project is great for practicing front-end layout skills, CSS styling, and responsive design principles.
 # Nutrition Label Project 🍎
 
-A web-based **nutrition label** built using HTML and CSS.  
-This project replicates a standard nutrition facts label like those found on food packaging.
+![Nutrition Label Preview](Nutrition_label.png)
+
+A web-based **nutrition label** built with HTML and CSS. This project replicates a standard nutrition facts label like those found on packaged foods.
 
 ---
 
 ## Features
 
 - Structured **nutrition facts layout** with proper headers and dividers
+- **Bold text** and **flexbox alignment** for nutrient values
 - **Daily Value percentages** aligned to the right
-- **Bold text** for key nutrients
-- **Responsive CSS** using flexbox and classes
-- Includes **note section** for % Daily Value explanation
+- Includes a **note section** explaining % Daily Value
+- Demonstrates use of **spans, paragraphs, and classes** for layout and styling
 
 ---
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Google Fonts (Open Sans)
+
+---
+
+## Usage
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/nutrition-label-project.git
